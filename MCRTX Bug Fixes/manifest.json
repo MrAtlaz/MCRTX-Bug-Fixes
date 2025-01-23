@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "MCRTX Bug Fixes Pack",
+        "description": "The standard open source bug fix resource pack for Minecraft RTX.",
+        "uuid": "c171c678-a454-42a7-98f5-df743f316664",
+        "version": [0,1,0],
+        "min_engine_version": [1,21,50]
+    },
+    "modules": [{
+        "description": "The standard open source bug fix resource pack for Minecraft RTX.",
+        "type": "resources",
+        "uuid": "72f68d76-7f0e-4c7f-a6ba-ba9646116164",
+        "version": [1,0,0]
+    }],
+    "capabilities": ["raytraced"]
+}
