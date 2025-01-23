@@ -19,5 +19,17 @@
          "west": "chiseled_bookshelf_side"
       },
       "blockshape": "block"
+   },
+   "dried_kelp_block": {
+      "sound": "grass",
+      "textures": {
+         "down": "dried_kelp_block_bottom",
+         "east": "dried_kelp_block_side_b",
+         "north": "dried_kelp_block_side_a",
+         "south": "dried_kelp_block_side_b",
+         "up": "dried_kelp_block_top",
+         "west": "dried_kelp_block_side_a"
+      },
+      "blockshape": "block"
    }
 }

@@ -74,6 +74,9 @@
       },
       "chiseled_bookshelf_empty": {
          "textures": "textures/blocks/chiseled_bookshelf_front/00"
+      },
+      "dried_kelp_block_bottom": {
+         "textures": "textures/blocks/dried_kelp_bottom"
       }
    }
 }
