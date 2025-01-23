@@ -11,5 +11,4 @@
    - Add PBR textures for the new `dried_kelp_bottom` texture to take advantage of this.
  - Adjusted Water textures for RTX compatibility
 ### Entities:
-### BetterRTX Features:
-
+ - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))

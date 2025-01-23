@@ -5,6 +5,9 @@
       "identifier": "minecraft:goat",
       "spawn_egg": {
         "texture": "spawn_egg_goat"
+      },
+      "scripts": {
+        "should_update_bones_and_effects_offscreen": true
       }
     }
   }
