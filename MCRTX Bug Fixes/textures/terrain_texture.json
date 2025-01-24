@@ -77,6 +77,60 @@
       },
       "dried_kelp_block_bottom": {
          "textures": "textures/blocks/dried_kelp_bottom"
+      },
+      "glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_carried"
+      },
+      "black_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_black_carried"
+      },
+      "blue_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_blue_carried"
+      },
+      "brown_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_brown_carried"
+      },
+      "cyan_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_cyan_carried"
+      },
+      "gray_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_gray_carried"
+      },
+      "green_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_green_carried"
+      },
+      "light_gray_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_silver_carried"
+      },
+      "light_blue_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_light_blue_carried"
+      },
+      "lime_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_lime_carried"
+      },
+      "magenta_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_magenta_carried"
+      },
+      "orange_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_orange_carried"
+      },
+      "pink_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_pink_carried"
+      },
+      "purple_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_purple_carried"
+      },
+      "red_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_red_carried"
+      },
+      "white_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_white_carried"
+      },
+      "yellow_stained_glass_carried": {
+         "textures": "textures/blocks/glass_carried/glass_yellow_carried"
+      },
+      "tinted_glass_carried": {
+         "textures": "textures/blocks/glass_carried/tinted_glass_carried"
       }
    }
 }

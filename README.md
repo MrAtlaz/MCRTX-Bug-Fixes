@@ -9,7 +9,7 @@
    - Simply add the necessary texture sets for each Chiseled Bookshelf to take advantage of this.
  - Enabled PBR on the bottom face of Dried Kelp Block 
    - Add PBR textures for the new `dried_kelp_bottom` texture to take advantage of this.
- - Adjusted Water textures for RTX compatibility
+ - Adjusted Water and Glass textures for RTX compatibility
 ### Entities:
  - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))
  - Fixed Enderman, Phantom, Spider, Cave Spider not applying invisibility
