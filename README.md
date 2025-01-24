@@ -17,3 +17,4 @@
  - Fixed Player skin becoming a black texture when toggling Ray Tracing on
  - Fixed Villager clothes failing to render ([MCPE-111414](https://bugs.mojang.com/browse/MCPE-111414))
  - Fixed Tropical Fish fins failing to render
+ - Fixed Firework Rockets using a black texture
