@@ -13,3 +13,4 @@
 ### Entities:
  - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))
  - Fixed Enderman, Phantom, Spider, Cave Spider not applying invisibility
+ - Fixed Player skin becoming a black texture when toggling Ray Tracing on
