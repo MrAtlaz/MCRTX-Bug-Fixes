@@ -4,31 +4,34 @@
     "controller.render.tropicalfish_layer": {
       "arrays": {
         "geometries": {
-          "Array.models": [ "Geometry.typeA_layer", "Geometry.typeB_layer" ]
+          "array.models": [
+            "geometry.typeA_layer",
+            "geometry.typeB_layer"
+          ]
         },
         "textures": {
-          "Array.patterns": [
-            "Texture.aPattern1",
-            "Texture.aPattern2",
-            "Texture.aPattern3",
-            "Texture.aPattern4",
-            "Texture.aPattern5",
-            "Texture.aPattern6",
-            "Texture.bPattern1",
-            "Texture.bPattern2",
-            "Texture.bPattern3",
-            "Texture.bPattern4",
-            "Texture.bPattern5",
-            "Texture.bPattern6"
+          "array.patterns": [
+            "texture.aPattern1",
+            "texture.aPattern2",
+            "texture.aPattern3",
+            "texture.aPattern4",
+            "texture.aPattern5",
+            "texture.aPattern6",
+            "texture.bPattern1",
+            "texture.bPattern2",
+            "texture.bPattern3",
+            "texture.bPattern4",
+            "texture.bPattern5",
+            "texture.bPattern6"
           ]
         }
       },
-      "geometry": "Array.models[variable.TropicalFish.Base]",
-      "materials": [ { "*": "Material.default" } ],
+      "geometry": "array.models[variable.TropicalFish.Base]",
+      "materials": [{ "*": "material.default" }],
       "textures": [
-	  "Array.patterns[v.TropicalFish.Pattern]",
-	  "Array.patterns[v.TropicalFish.Pattern]"
-	  ]
-	}
+        "array.patterns[v.TropicalFish.Pattern]",
+        "array.patterns[v.TropicalFish.Pattern]"
+      ]
+    }
   }
 }
