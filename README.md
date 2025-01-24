@@ -11,5 +11,7 @@
    - Add PBR textures for the new `dried_kelp_bottom` texture to take advantage of this.
  - Adjusted Water textures for RTX compatibility
 ### Entities:
-### BetterRTX Features:
-
+ - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))
+ - Fixed Enderman, Phantom, Spider, Cave Spider not applying invisibility
+ - Fixed Player skin becoming a black texture when toggling Ray Tracing on
+ - Fixed Villager clothes failing to render ([MCPE-111414](https://bugs.mojang.com/browse/MCPE-111414))

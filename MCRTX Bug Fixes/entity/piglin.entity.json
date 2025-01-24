@@ -5,6 +5,9 @@
       "identifier": "minecraft:piglin",
       "spawn_egg": {
         "texture": "spawn_egg_piglin"
+      },
+      "scripts": {
+        "should_update_bones_and_effects_offscreen": true
       }
     }
   }
