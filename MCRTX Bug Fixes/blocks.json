@@ -308,5 +308,10 @@
       "sound": "glass",
       "textures": "tinted_glass",
       "carried_textures": "tinted_glass_carried"
+   },
+   "pale_hanging_moss" : {
+      "sound" : "pale_hanging_moss",
+      "textures" : "pale_hanging_moss",
+      "blockshape": "cross_texture"
    }
 }
