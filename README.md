@@ -21,4 +21,5 @@
  - Fixed Firework Rockets using a black texture
  - Enabled Warden texture animations with RTX ([MCPE-157438](https://bugs.mojang.com/browse/MCPE-157438))
  - Fixed Iron Golem cracks failing to render
- - Made Minecart TNT and Command Blocks Ray Traced
+ - Made Minecart TNT and Command Blocks ray traced
+ - Made Snow Golem pumpkin head ray traced
