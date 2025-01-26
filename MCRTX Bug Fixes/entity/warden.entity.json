@@ -3,6 +3,10 @@
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:warden",
+      "geometry": {
+        "default": "geometry.warden",
+        "layer": "geometry.warden_layer"
+      },
       "spawn_egg": {
         "texture": "spawn_egg_warden"
       },

@@ -14,7 +14,8 @@
 ### Entities:
  - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))
  - Fixed Enderman, Phantom, Spider, Cave Spider not applying invisibility
- - Fixed Player skin becoming a black texture when toggling Ray Tracing on
+ - Fixed Player and Warden using a black texture when toggling Ray Tracing on
  - Fixed Villager clothes failing to render ([MCPE-111414](https://bugs.mojang.com/browse/MCPE-111414))
  - Fixed Tropical Fish fins failing to render
  - Fixed Firework Rockets using a black texture
+ - Enabled Warden texture animations with RTX
