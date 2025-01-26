@@ -19,4 +19,5 @@
  - Fixed Villager & Zombie Villager clothes failing to render ([MCPE-111414](https://bugs.mojang.com/browse/MCPE-111414))
  - Fixed Tropical Fish fins failing to render
  - Fixed Firework Rockets using a black texture
- - Enabled Warden texture animations with RTX
+ - Enabled Warden texture animations with RTX ([MCPE-157438](https://bugs.mojang.com/browse/MCPE-157438))
+ - Fixed Iron Golem cracks failing to render
