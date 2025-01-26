@@ -24,3 +24,4 @@
  - Made Minecart TNT and Command Blocks ray traced
  - Made Snow Golem pumpkin head ray traced
  - Fixed Mooshroom mushrooms failing to render
+ - Fixed tamed Cats not having a shadow
