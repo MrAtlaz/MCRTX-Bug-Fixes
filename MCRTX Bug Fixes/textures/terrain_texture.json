@@ -131,6 +131,12 @@
       },
       "tinted_glass_carried": {
          "textures": "textures/blocks/glass_carried/tinted_glass_carried"
+      },
+      "redstone_ore_lit": {
+         "textures": "textures/blocks/redstone_ore_lit"
+      },
+      "deepslate_redstone_ore_lit": {
+         "textures": "textures/blocks/deepslate/deepslate_redstone_ore_lit"
       }
    }
 }

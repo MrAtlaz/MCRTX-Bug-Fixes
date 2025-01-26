@@ -313,5 +313,14 @@
       "sound" : "pale_hanging_moss",
       "textures" : "pale_hanging_moss",
       "blockshape": "cross_texture"
+   },
+   "lit_redstone_ore" : {
+      "sound" : "stone",
+      "textures" : "redstone_ore_lit"
+   },
+   "lit_deepslate_redstone_ore" : {
+      "isotropic" : false,
+      "sound" : "deepslate",
+      "textures" : "deepslate_redstone_ore_lit"
    }
 }

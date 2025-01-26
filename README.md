@@ -11,6 +11,7 @@
    - Add PBR textures for the new `dried_kelp_bottom` texture to take advantage of this.
  - Adjusted Water and Glass textures for RTX compatibility
  - Fixed Pale Hanging Moss rendering both sides simultaneously
+ - Enabled PBR on lit Redstone Ore and Deepslate Redstone Ore
 ### Entities:
  - Fixed all entities culling when off screen ([MCPE-110757](https://bugs.mojang.com/browse/MCPE-110757))
  - Fixed Enderman, Phantom, Spider, Cave Spider not applying invisibility
