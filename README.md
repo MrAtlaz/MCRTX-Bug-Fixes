@@ -23,3 +23,4 @@
  - Fixed Iron Golem cracks failing to render
  - Made Minecart TNT and Command Blocks ray traced
  - Made Snow Golem pumpkin head ray traced
+ - Fixed Mooshroom mushrooms failing to render
